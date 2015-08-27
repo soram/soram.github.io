@@ -41,29 +41,14 @@
 <p align="center">&nbsp;</p>
 <p align="center">
   <a target="_blank" href="https://docs.google.com/spreadsheets/d/1x9-kX1FA7Ay2IWr1LBTVChHajGOURJ0k11k_BbLh5lc/edit#gid=1839580593"> 
-    <button type="button" class="ct-btn white" style="width:278px; height:70px; font-size: 38px">상담 관리 내역</button>
+    <button type="button" class="ct-btn white" style="width:278px; height:70px; font-size: 38px">구매 신청</button>
   </a> 
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://docs.google.com/spreadsheets/d/14XfGovRx_2Y8GqRv9ZIbFrNO4efcEsJXuut0kYyC-q4/edit#gid=104849416">
-    <button type="button" class="ct-btn white" style="width:278px; height:70px; font-size: 38px">매입/매출/재고</button>
+    <button type="button" class="ct-btn white" style="width:278px; height:70px; font-size: 38px">소모품단가표</button>
   </a> 
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://docs.google.com/spreadsheets/d/1EhzirljJC0wO9zZbxVtLLh4q7goAqY5WkKIswckzMnI/edit#gid=0">
-    <button type="button" class="ct-btn white" style="width:278px; height:70px; font-size: 38px">가격단가표</button>
-  </a>
-</p>
-<p align="center">&nbsp;</p>
-<p align="center">
-  <a target="_blank" href="https://docs.google.com/spreadsheets/d/1Iuer2GwBSL6gq7W5do0-mc0aIceDybYEYVRs8IrcSew/edit#gid=0">
-    <button type="button" class="ct-btn white" style="width:278px; height:70px; font-size: 38px">공지사항/기타</button>
-  </a> 
   
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://docs.google.com/spreadsheets/d/1On3fJyS4Uiph-oynqks3xejfF7QBRRDBGjelC9PRe-Y/edit#gid=0">
-    <button type="button" class="ct-btn white" style="width:278px; height:70px; font-size: 38px">문서(자료실)</button>
-  </a>  
-  &nbsp;&nbsp;&nbsp;&nbsp;
-    <button type="button" class="ct-btn white" style="width:278px; height:70px; font-size: 38px">업데이트 중..</button>
 
   </p>
 </body>
